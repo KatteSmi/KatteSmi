@@ -7,3 +7,6 @@
 #### - ⚡ I’m looking for an internship for further development in the IT field;
 #### - 📫 How to reach me: katevaselkova@me.com
 
+![Profile views](https://gpvc.arturio.dev/KatteSmi)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KatteSmi)](https://github.com/anuraghazra/github-readme-stats)
