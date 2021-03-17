@@ -1,4 +1,4 @@
-# Hello there👋, I'm Kate! ![Profile views](https://gpvc.arturio.dev/KatteSmi)
+## Hello there👋, I'm Kate! ![Profile views](https://gpvc.arturio.dev/KatteSmi)
 
 ![78KI](https://user-images.githubusercontent.com/66886929/111477713-75445000-8740-11eb-9b70-51d734ab4071.gif)
 
