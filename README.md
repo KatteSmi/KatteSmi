@@ -1,7 +1,6 @@
 # Hello there👋, I'm Kate! ![Profile views](https://gpvc.arturio.dev/KatteSmi)
 
-
-![7fyW](https://user-images.githubusercontent.com/66886929/111467753-ddd9ff80-8735-11eb-80ff-2fa13fe146e7.gif)
+![78KI](https://user-images.githubusercontent.com/66886929/111477713-75445000-8740-11eb-9b70-51d734ab4071.gif)
 
 ##### - 🎓 Graduate of Bauman Moscow State Technical University;
 ##### - 🌱 I’m currently learning in Skillbox java development;
