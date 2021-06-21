@@ -3,8 +3,8 @@
 ![78KI](https://user-images.githubusercontent.com/66886929/111477713-75445000-8740-11eb-9b70-51d734ab4071.gif)
 
 ##### • 🎓 Graduate of Bauman Moscow State Technical University;
-##### • 🌱 I’m currently learning in Skillbox java development;
-##### • ⚡ I’m looking for an internship for further development in the IT-field;
+##### • ⚡ Junior Engineer for Automated Testing at LANIT;
+##### • 🌱 I am finishing my studies at the online university of Skillbox Java development;
 ##### • 📫 How to reach me: katevaselkova@me.com
 
 ![icons8-логотип-java-coffee-cup-30](https://user-images.githubusercontent.com/66886929/111480779-64490e00-8743-11eb-814d-c1271678eaea.png)
