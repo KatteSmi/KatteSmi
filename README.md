@@ -3,7 +3,7 @@
 ![78KI](https://user-images.githubusercontent.com/66886929/111477713-75445000-8740-11eb-9b70-51d734ab4071.gif)
 
 ##### • 🎓 Graduate of Bauman Moscow State Technical University;
-##### • ⚡ Junior Engineer for Automated Testing at LANIT;
+##### • ⚡ Junior Engineer for Automated Testing at Renaissance Credit Bank;
 ##### • 🌱 I am finishing my studies at the online university of Skillbox Java development;
 ##### • 📫 How to reach me: katevaselkova@me.com
 
